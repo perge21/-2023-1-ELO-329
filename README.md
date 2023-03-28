@@ -1,1 +1,1 @@
-# -2023-1-ELO-329
+# Repositorio del material del paralelo 200 en la asignatura Diseño y Programación Orientada a Objetos del 2023-1
